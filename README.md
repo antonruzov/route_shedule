@@ -1,5 +1,6 @@
 # route_shedule
- Genetic algorithm for route shedule. \n
+ Genetic algorithm for route shedule.
+ 
  The solution of the ONE-MAX problem (Module ga.py) 
  
  Генетический алгоритм для построения расписания.
